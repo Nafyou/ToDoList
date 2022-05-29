@@ -1,2 +1,2 @@
 # ToDoList
- A React-Based Todolist made by Nafyou and Julefikar
+ A React-Based Todolist made by Nafew and Julefikar
